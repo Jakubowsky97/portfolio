@@ -1,0 +1,103 @@
+Jakub Mądry
+
+Front-End / Full-Stack Developer
+📍 Sandomierz, Poland | 🌐 Remote
+📧 jakubowskyy97@gmail.com
+🔗 LinkedIn https://www.linkedin.com/in/jakub-m%C4%85dry-28b694267/
+ | 🔗 GitHub https://github.com/Jakubowsky97
+
+
+Profile
+
+Motivated and detail-oriented Front-End Developer with strong focus on building responsive, pixel perfect and engaging web applications.
+Passionate about clean code, modern UI design, and seamless user experiences.
+Skilled in React, Next.js, and TypeScript, with additional experience in backend development using Node.js and Payload CMS.
+Looking for a remote position or place in a project where I can grow as a Full-Stack Developer and contribute to impactful digital products.
+
+
+Technical Skills
+
+Frontend: React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Zustand, React Query, Framer-Motion
+Backend: Node.js, Express, Payload CMS, MongoDB, Supabase, Prisma
+Tools & Others: Git, GitHub, Vercel, Docker (basic), REST APIs, UX/UI fundamentals, Responsive Design, Performance Optimization, SEO Optimization
+
+
+Experience
+
+C# Intern – W-ned Software (remote)
+May 2024
+Developed and tested backend features in C#.
+Collaborated with the team using Git and agile workflows.
+Learned principles of clean code and efficient backend logic.
+
+Front-end Intern - Magico Software (remote)
+October 2024
+Created a web-based phone simulator for the Helpdesk system.
+Developed using React, Next.js, and Bootstrap, the tool allows simulating a phone in the browser.
+Key features include listening for incoming calls, syncing with the server, handling phone status synchronization (idle, ringing, off-hook)
+
+Freelance & Personal Projects
+2023 – Present
+Designed and developed modern web applications using React and Next.js.
+Integrated custom CMS solutions with Payload and Neon.
+Focused on responsive layouts, performance, and user experience.
+
+
+Selected Projects
+
+TripMate – Travel Planning Web App  
+A full-stack application for organizing and sharing travel plans with friends.  
+Built with React, Next.js and Supabase.  
+Currently in development.
+
+Los Laseros – Laser Tag Arena Website
+A full-featured business website with reservation system powered by Next.js and Payload CMS, including a dynamic CMS dashboard for image management.
+[Visit website] (https://los-laseros-cms.vercel.app/)
+
+Biłgokart – Go-Kart Rental Website
+Developed a modern landing page for a go-kart rental business in Biłgoraj. 
+The site focuses on performance, visual appeal, and easy future content management. 
+Built with Next.js, Tailwind CSS, Framer Motion, and deployed on Vercel.
+
+AstroColony – Hackathon Project / Simulation of Mars Colony
+Developed during a 24-hour hackathon, AstroColony is an interactive Mars colony simulator. On the frontend, built with React, TypeScript, Vite, Leaflet map integration, and Recharts for data visualization. On the backend, implemented with Spring Boot (Java), including a scheduler for simulating day/night cycles and environmental data updates.
+
+Key features:
+• Interactive map of Mars enabling placement of farms and resource stations.
+• Real-time simulation of environmental metrics (oxygen, water, energy) changing over time.
+• API-driven backend managing simulation logic and scheduled updates.
+
+Future enhancements planned: advanced simulation models, activity logs, more structure types and map interactions.
+[GitHub Repo](https://github.com/Jakubowsky97/Spaceshield-Hackathon) | [Certificate](https://credsverse.com/credentials/89c1df53-e923-44dd-8201-8fd1494f0615)
+
+x-clone – Next.js + Prisma Web App (Clone Project)
+x-clone is a full-stack web application built with Next.js, TypeScript, and Prisma. The project features a modular architecture including app/, components/, and lib/, with type-safe logic, database modeling, and middleware functionality.
+
+Key aspects:
+• Utilizes Prisma as ORM for database modeling and data operations.
+• Employs middleware in Next.js for route protection or custom logic.
+• Uses Tailwind CSS for responsive and utility-first styling.
+• Clean separation of concerns: shared utilities in lib/, typed interfaces in types/, and reusable UI components in components/.
+
+The project demonstrates strong foundations in modern React/Next.js app structure, type safety, and backend integration.
+[GitHub Repo](https://github.com/Jakubowsky97/x-clone)
+
+Portfolio Website
+Personal portfolio built with Next.js, Tailwind CSS, and Framer Motion to showcase my work and skills.
+
+
+Education
+
+Zespół Szkół im. ks. S. Staszica w Tarnobrzegu - profil Programista 2021-2026
+Self-taught Full-Stack Developer – focused on JavaScript, React, and Node.js through project-based learning.
+
+
+Languages
+
+Polish: Native
+English: Fluent
+
+
+Interests
+
+Karting, Motorsports, Technology innovation and building apps that make everyday life easier.
